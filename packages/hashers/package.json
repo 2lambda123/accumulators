@@ -28,7 +28,7 @@
     "@accumulators/core": "^4.2.3",
     "@ethersproject/solidity": "^5.7.0",
     "circomlibjs": "^0.1.7",
-    "ethers": "6.12.1",
+    "ethers": "6.13.1",
     "micro-starknet": "^0.2.3"
   }
 }
